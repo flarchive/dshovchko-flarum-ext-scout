@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of dshovchko/flarum-ext-scout.** Not for installation: use [Packagist](https://packagist.org/packages/dshovchko/flarum-ext-scout) or the [upstream repository](https://github.com/dshovchko/flarum-ext-scout).
 
-**0** versions archived · Latest: [`v0.3.6`](https://github.com/flarchive/dshovchko-flarum-ext-scout/tree/archive/v0.3.6) · License: `MIT` · Flarum: `^1.2`
+**2** versions archived · Latest: [`v0.3.6`](https://github.com/flarchive/dshovchko-flarum-ext-scout/tree/archive/v0.3.6) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.3.5` | 2026-01-31 | `^1.2` | [Browse](https://github.com/flarchive/dshovchko-flarum-ext-scout/tree/archive/v0.3.5) |
+| `v0.3.6` | 2026-02-01 | `^1.2` | [Browse](https://github.com/flarchive/dshovchko-flarum-ext-scout/tree/archive/v0.3.6) |
 
 Catalog entry: [packages/dshovchko-flarum-ext-scout.json](https://github.com/flarchive/archive-index/blob/main/packages/dshovchko-flarum-ext-scout.json)
 
